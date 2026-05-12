@@ -1,1 +1,4 @@
-export class Soldier {}
+export class Soldier {
+  constructor(healthArg, strengthArg) {}
+
+}
