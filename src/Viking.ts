@@ -1,4 +1,4 @@
-import { Soldier } from "../src/Soldier";
+import { Soldier } from "./Soldier";
 
 export class Viking extends Soldier {
   name: string;
